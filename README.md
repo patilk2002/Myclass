@@ -1,2 +1,2 @@
 # Myclass
-Proctored Online Examination website
+Proctored Online Examination portal
